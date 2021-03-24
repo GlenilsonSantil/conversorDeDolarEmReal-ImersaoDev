@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto Mono', monospace;
-    min-height: 400px;
-    background-image: url('https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2019/12/xbox-series-x-800x450.jpg');
+    min-height: 700px;
+    background-image: url('https://data.1freewallpapers.com/download/coins-background.jpg');
     background-color: #000000;
     background-size: 100%;
     background-position: center bottom;
@@ -12,8 +12,8 @@ body {
 }
 
 .container {
-    text-align: center;
-    padding: 20px;
+    text-align: left;
+    padding: 25px;
     height: 100vh;
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 .page-logo {
-    width: 200px;
+    width: 250px;
 }
 
 .alura-logo {
